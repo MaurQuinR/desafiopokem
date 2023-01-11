@@ -1,0 +1,57 @@
+body{
+
+  background-color: yellow;
+}
+
+.active {
+  color: red;
+  font-weight: bold;
+  
+}
+
+.poke{
+ width: 700px;
+ border-radius: 800px;
+
+}
+
+.home{
+  text-align: center;
+  padding-top: 80px;
+   
+}
+
+.icono{
+width: 20px;
+  
+
+}
+
+h1{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+
+.container{
+  padding-top: 30px;
+  
+
+}
+
+button{
+  margin-left: 45%;
+}
+
+
+
+.card{
+  align-items: center;
+  width: 30%;
+  margin: 5% 35% auto;
+  background-color: #be828e;
+  border-radius: 10%;
+
+}
+.navbar{
+ padding-left: 80%;
+}
